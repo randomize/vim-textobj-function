@@ -26,7 +26,7 @@
 
 
 
-let b:textobj_function_select = function('textobj#function#java#select')
+let b:textobj_function_select = function('textobj#function#cs#select')
 
 
 
